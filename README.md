@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## note to self / things to further do
 
-## Getting Started
+use NextAuth or clerk to implement proper authentication
 
-First, run the development server:
+clear up the routes, some un-necessary prototype/ testing routes present
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+clear up some un-necessary UI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+use sessions and cookies, to validate user maybe instead of displaying it on the url and allowing access to everyone
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+use a hook and store the user data in a cahce/ or a hook in general instead of fetching from database every single time
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+especially for profile photo which is used multiple times, fetching a large byte 64 value from DB every single time takes time and impacts performance , a hook to get the data and store in a global varible would be better maybe??
 
-## Learn More
+allow users to browse through the UI and prompt them to login/register only for specific actions
 
-To learn more about Next.js, take a look at the following resources:
+## how to run
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+go to folder =>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+npm i => to install all packages
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+npm run dev => to run server on localhost
