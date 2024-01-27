@@ -4,8 +4,8 @@
 
 ## screenshots
 
-<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="650" height="480" alt="Image not found" />
-
+<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="550" height="400" alt="Image not found" />
+<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png" width="550" height="400" alt="Image not found" />
 
 ![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png>)
 
