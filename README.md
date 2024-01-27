@@ -1,3 +1,13 @@
+## screenshots
+
+
+![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png>)
+
+![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png>)
+![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(74).png>)
+![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(75).png>)
+
+
 ## note to self / things to further do
 
 use NextAuth or clerk to implement proper authentication
