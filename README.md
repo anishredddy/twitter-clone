@@ -4,7 +4,7 @@
 
 ## screenshots
 
-<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="384" height="240 />
+![Image not found]<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="384" height="240 />
 
 ![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png>)
 
