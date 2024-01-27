@@ -5,7 +5,6 @@ import { useParams, useRouter } from "next/navigation";
 import Button from "../ui/Button";
 import { BiCalendar } from "react-icons/bi";
 import useEditModal from "@/hooks/use-edit-modal";
-import useLoginModal from "@/hooks/use-login-modal";
 import toast from "react-hot-toast";
 import axios from "axios";
 
