@@ -11,11 +11,10 @@
   <img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png" width="500" height="350" alt="Image not found" />
 </div>
 
-![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png>)
-
-![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png>)
-![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(74).png>)
-![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(75).png>)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(74).png" width="500" height="350" alt="Image not found" />
+  <img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(75).png" width="500" height="350" alt="Image not found" />
+</div>
 
 
 ## note to self / things to further do
