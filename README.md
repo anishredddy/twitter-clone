@@ -4,8 +4,12 @@
 
 ## screenshots
 
-<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="550" height="400" alt="Image not found" />
-<img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png" width="550" height="400" alt="Image not found" />
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png" width="550" height="400" alt="Image not found" />
+  <img src="https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(73).png" width="550" height="400" alt="Image not found" />
+</div>
 
 ![Image not found](<https://github.com/anishredddy/twitter-clone/blob/main/screenshots/Screenshot%20(72).png>)
 
